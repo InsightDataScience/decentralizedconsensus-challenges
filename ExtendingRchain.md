@@ -18,5 +18,12 @@ Now that you have the basic Rchain running, its time to extend it! As a team you
  3. Add signed message functionality 
  4. Scale to 10 users on the network.
  5. Build a presentation that covers the fundamentals of your groups chain and a series of screenshots that provides 1-3 functionality. 
- 
+    * 1 slide - Introduction / Problem set up
+    * 2 slide - Rust fundamentals 
+    * 2 slide - Signed Message functionality fundamentals 
+    * 1 slide - Software Architecture diagram
+    * 1 slide - Demo (screenshots, gif, video) 
+    * 1 slide - Key take aways / Challenges 
+    * 1 slide - Trade offs to this approach 
+    * 1 slide - Contributions
 
